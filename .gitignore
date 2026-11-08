@@ -1,0 +1,6 @@
+*.o
+*.bin
+tasm
+tsim
+tdis
+ttest
